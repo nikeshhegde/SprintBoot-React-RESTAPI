@@ -2,6 +2,28 @@
 
 Todo REST API based application with with Login, Logout , Registration of User with Authentication and Role based authorization
 
-Technologies
+Tools and technologies used in this course:
+
+Server-side:
+
 Java 25
-Spring Boot 4, Spring Security 7, Spring Data JPA, JWT, React JS, and MySQL database.
+Spring Boot 4+
+Spring Data JPA (Hibernate)
+Spring Security
+JWT
+Maven
+IntelliJ IDEA
+MySQL database
+Postman
+
+Client-side:
+
+React JS 18+
+React Hooks
+React Router
+Axios
+Bootstrap CSS framework
+Visual Studio Code IDE
+VS Code extensions
+Node JS
+NPM
