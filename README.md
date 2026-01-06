@@ -1,6 +1,7 @@
 # Full-Stack Java Development with Spring Boot & React
 
-Todo Application with with Login, Logout , Registration of User with Authentication and Role based authorization
+Todo REST API based application with with Login, Logout , Registration of User with Authentication and Role based authorization
 
 Technologies
-Spring Boot, Spring Security, JWT, React, Java 25
+Java 25
+Spring Boot 4, Spring Security 7, Spring Data JPA, JWT, React JS, and MySQL database.
