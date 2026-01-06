@@ -2,7 +2,7 @@
 
 Todo REST API based application with with Login, Logout , Registration of User with Authentication and Role based authorization
 
-Tools and technologies used in this course:
+Tools and technologies used :
 
 Server-side:
 
